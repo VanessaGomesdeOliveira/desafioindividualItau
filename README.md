@@ -14,3 +14,13 @@ https://developer.mozilla.org/
 https://blog.rocketseat.com.br/
 
 https://www.devmedia.com.br/
+
+https://viacep.com.br/exemplo/javascript/ para puxar o cep;
+
+aula professor JC Bombardelli para validar CPF;
+
+https://www.w3schools.com/tags/att_script_src.asp
+
+https://pt.stackoverflow.com/questions/348030/como-fazer-um-mask-em-javascript-puro PARA MASCARA TELEFONE
+
+https://pt.stackoverflow.com/questions/348030/como-fazer-um-mask-em-javascript-puro PARA MASCARA CPF
